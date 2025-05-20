@@ -1,5 +1,5 @@
 # TechBoy
-![Techbot](https://github.com/ppmalta/TechBoy/blob/main/TechBoy.png?raw=true)
+![TechBoy](https://github.com/ppmalta/TechBoy/blob/main/TechBoy.png?raw=true)
 <h2 align="center">TechBoy: programar nunca foi tão fácil e divertido! Seu conselheiro virtual te espera.</h2>
 
  <h3 align="center">Quem sou eu: Sou seu amigão da vizinhança: Spider...Ops! Só de zuiera. Sou TechBoy o teu parceiro vibe pra desbravar programação! Explica código de boa, com exemplos práticos e um toque de humor Geek. Perfeito pra quem tá começando na tech, te guia com empatia e visão foda pro futuro. Bora codar e inovar juntos? 🚀 #TechBoyVibes</h3>
